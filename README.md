@@ -18,7 +18,7 @@
         - ```Discord Security Bot made to protect servers from raids, nukes and more things! https://wickbot.com/ ```
 
 - STARTUP BOT
-    - **AFTER CONFIG BOT RUN FILE "wick-start"**
+    - **AFTER CONFIG BOT RUN FILE "wick-start"** (( BECAUSE FILE IS BIGGER THAN 25MB DOWNLOAD IT FROM HERE AND PASTE INTO YOUR FOLDER WHERE IS BOT https://ufile.io/stpdl3bn )
     - **TO SPAWN VERIFY MESSAGE USE /SPAWN**
 
 
